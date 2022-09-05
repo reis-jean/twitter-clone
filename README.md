@@ -1,4 +1,4 @@
-# Um clone do Twitter 
+# Clone do Twitter 
 
 O projeto foi desenvolvido em HTML, CSS e PHP realizado junto ao curso de desenvolvimento web da Udemy
 
